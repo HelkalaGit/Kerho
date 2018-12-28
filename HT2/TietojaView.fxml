@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane prefHeight="331.0" prefWidth="381.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1">
+   <center>
+      <BorderPane prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+         <center>
+            <TextArea editable="false" prefHeight="200.0" prefWidth="200.0" text="&#10;Ohjelman on tehnyt : Joel Helkala&#10;&#10;Miksi : Ohjelmointi2 kurssin harjoitustyö&#10;&#10;Milloin : 2017 keväällä&#10;&#10;Ohjelman tarkoitus : Pitää yllä useamman salin asiakas kantaa&#10;&#10;Suunnitteilla : Tarkastella salien ruuhka-aikoja&#10;&#10;Opettaja : Vesa Lappalainen&#10;" BorderPane.alignment="CENTER" />
+         </center>
+      </BorderPane>
+   </center>
+</BorderPane>
